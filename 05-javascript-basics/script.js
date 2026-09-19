@@ -6,6 +6,6 @@ function greetUser() {
     if (name.trim() === "") {
         greeting.textContent = "Please enter your name 😊";
     } else {
-        greeting.textContent = `Hello, ${name}! Welcome to my JavaScript journey 🚀`;
+        greeting.textContent = `Hello, ${name}! Welcome to Celina's coding journey 🚀`;
     }
 }
