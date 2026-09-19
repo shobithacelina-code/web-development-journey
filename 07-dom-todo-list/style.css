@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    width: 65%;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+li span {
+    cursor: pointer;
+}
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
