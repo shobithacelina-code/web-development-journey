@@ -1,0 +1,35 @@
+/* My First CSS Project */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    color: #222;
+    margin: 0;
+    padding: 40px;
+}
+
+h1 {
+    color: #6c3baa;
+    font-size: 42px;
+}
+
+h2 {
+    color: #444;
+}
+
+h3 {
+    color: #6c3baa;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+ul {
+    line-height: 2;
+}
+
+li {
+    font-size: 17px;
+}
